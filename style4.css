@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.frame36{
+    width: 100%;
+    height: 300vh;
+    background-color: #BAB2AD;
+}
+.b1{
+    width: 91.56rem;
+    height: 6.94rem;
+    background: #000;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 6rem;
+    color: #fff;
+    position: absolute;
+    top:133px;
+    left: 105px;
+}
+.b2{
+    width: 37.12rem;
+    height: 27.5rem;
+    background: #000;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 2.5rem;
+    color: #fff;
+    position: absolute;
+    top:726px;
+    left:1004px;
+}
+.b3{
+    width: 37.12rem;
+    height: 27.5rem;
+    background: #000;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 1.3rem;
+    color: #fff;
+    position: absolute;
+    top:1434.81px;
+    left: 104px;
+}
+.b4{
+    width: 42.62rem;
+    height: 27rem;
+    background: #000;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 2.5rem;
+    color: #fff;
+    position: absolute;
+    top:1743px;
+    left: 1200px;
+}
+table {
+    border:  1px solid black; /* Рамка вокруг таблицы */
+    border-collapse: collapse; /* Отображать только одинарные линии */
+  }
+ td {
+    border-bottom: 1px solid  rgb(212, 190, 190) ; /* Граница вокруг ячеек */
+  }
+.b5{
+    width: 37.12rem;
+    height: 27.5rem;
+    background: #000;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 2.5rem;
+    color: #fff;
+    position: absolute;
+    top:483px;
+    left: 108px;
+}
+.b6{
+    width: 37.12rem;
+    height: 16.44rem;
+    background: #000;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 2.5rem;
+    color: #fff;
+    position: absolute;
+    top:2425.2px;
+    left: 109.34px;
+}
